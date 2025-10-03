@@ -2,18 +2,18 @@
   
 ---
 <p align="center">
-  ✨ Welcome to my GitHub profile! ✨ 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=👉+This+line+appears+and+disappears+👈" alt="✨ Welcome to my GitHub profile! ✨ " />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=👉+This+✨ Welcome to my GitHub profile! ✨ +I am pPursuing B.tech from IIIT Sonipat+ I am in Second Year👈" alt="✨ Welcome to my GitHub profile! ✨ " />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: **(Basic Ai and development projects)**
+- 🔭 I’m currently working on: **(Basic Machine Learning and development projects)**
 - 🌱 I’m currently learning: **(Data Structure and algorithm )**
 - 👯 I’m looking to collaborate on: **(New projects)**
-- 🤔 I’m looking for help with: **(something specific)**
-- 💬 Ask me about: **(Web development / Ai and ml)**
+- 🤔 I’m looking for help with: **(Something specific)**
+- 💬 Ask me about: **(Web development / Artifical Inteligence and Machine Learning)**
 - 📫 How to reach me: **(https://www.linkedin.com/in/abhishek-tyagi-b457ba244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  )**
 - 😄 Pronouns: **(he/him )**
 - ⚡ Fun fact: **(Hard working and Passionate)**

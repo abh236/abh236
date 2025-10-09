@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning: **(Data Structure and algorithm )**
 - 👯 I’m looking to collaborate on: **(New projects)**
 - 🤔 I’m looking for help with: **(Something specific)**
-- 💬 Ask me about: **(Web development / Artifical Inteligence and Machine Learning)**
+- 💬 Ask me about: **(Web development / Artificial Intelligence  and Machine Learning)**
 - 📫 How to reach me: **(https://www.linkedin.com/in/abhishek-tyagi-b457ba244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  )**
 - 😄 Pronouns: **(he/him )**
 - ⚡ Fun fact: **(Hard working and Passionate)**

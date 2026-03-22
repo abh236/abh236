@@ -10,15 +10,31 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: **(Basic Machine Learning and development projects)**
-- 🌱 I’m currently learning: **(Data Structure and algorithm )**
-- 👯 I’m looking to collaborate on: **(New projects)**
-- 🤔 I’m looking for help with: **(Something specific)**
-- 💬 Ask me about: **(Web development / Artificial Intelligence  and Machine Learning)**
-- 📫 How to reach me: **(https://www.linkedin.com/in/abhishek-tyagi-b457ba244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  )**
-- 😄 Pronouns: **(he/him )**
-- ⚡ Fun fact: **(Hard working and Passionate)**
+## 🚀 About Me
 
+🔭 **I’m currently working on:**  
+Building intelligent systems using Machine Learning, backend APIs, and real-world development projects with a focus on scalable architectures  
+
+🌱 **I’m currently learning:**  
+Advanced Data Structures & Algorithms, System Design, and exploring Large Language Models (LLMs), Generative AI, and Agentic AI systems  
+
+👯 **I’m looking to collaborate on:**  
+Innovative AI/ML, backend, and full-stack projects involving real-world problem solving and intelligent automation  
+
+🤔 **I’m looking for help with:**  
+Optimizing ML models, designing agent-based systems, and improving backend scalability and performance  
+
+💬 **Ask me about:**  
+Backend development (Node.js), APIs, Artificial Intelligence, Machine Learning, Generative AI, and LLM-based applications  
+
+📫 **How to reach me:**  
+[LinkedIn](https://www.linkedin.com/in/abhishek-tyagi-b457ba244)  
+
+😄 **Pronouns:**  
+he/him  
+
+⚡ **Fun fact:**  
+I enjoy building intelligent systems that combine logic, data, and creativity — and I’m deeply passionate about continuous learning and solving complex problems  
 ---
 
 ### 🛠️ Languages and Tools

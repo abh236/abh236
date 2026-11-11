@@ -51,8 +51,11 @@ I enjoy building intelligent systems that combine logic, data, and creativity â€
 Here are my profiles on different coding platforms ðŸ‘‡  
 
 [![LeetCode](https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/abhishektyagi99/)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abhishhek_kumar1) 
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abhishektiwbg/)  
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abhishektyagi9937)  
  
 
